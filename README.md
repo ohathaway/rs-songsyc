@@ -1,37 +1,139 @@
-## Welcome to GitHub Pages
+# rs-songsyc
 
-You can use the [editor on GitHub](https://github.com/ohathaway/rs-songsyc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A Python utility for organizing and cataloging Rocksmith CDLC libraries.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
 
-### Markdown
+- **Automatic Organization**: Recursively scans directories and organizes PSARC files by artist
+- **Metadata Cataloging**: Generates comprehensive JSON metadata for all songs in your library
+- **Platform Detection**: Tracks which platform versions (PC/Mac) are available for each song
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Requirements
 
-```markdown
-Syntax highlighted code block
+- Python 3.14+
+- rstools package
 
-# Header 1
-## Header 2
-### Header 3
+## Installation
 
-- Bulleted
-- List
+```bash
+# Clone the repository
+git clone <repository-url>
+cd rs-songsyc
 
-1. Numbered
-2. List
+# Create and activate virtual environment
+python3 -m venv .
+source bin/activate  # On macOS/Linux
+# or
+.\Scripts\activate  # On Windows
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Install dependencies
+pip install rstools
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Usage
 
-### Jekyll Themes
+### Scanning and Generating Metadata
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ohathaway/rs-songsyc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```bash
+# Scan library and generate library.json with all metadata
+python scanner.py <path-to-rocksmith-dlc-folder>
+```
 
-### Support or Contact
+This will:
+- Recursively scan for all PSARC files
+- Extract metadata (artist, album, title, year, arrangements, tunings)
+- Generate `library.json` with comprehensive song information
+- Display summary statistics
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Organizing Files by Artist
+
+```bash
+# Preview changes (dry-run mode)
+python organize.py <path-to-rocksmith-dlc-folder> --dry-run
+
+# Execute organization (will prompt for confirmation)
+python organize.py <path-to-rocksmith-dlc-folder>
+```
+
+This will:
+- Scan PSARC files in the root directory
+- Extract artist names from file metadata
+- Create artist-named subdirectories
+- Move files into their respective artist folders
+
+## File Naming Conventions
+
+Rocksmith PSARC files follow these patterns:
+- **PC version**: `*_p.psarc`
+- **Mac version**: `*_m.psarc`
+
+Songs may have both PC and Mac versions in your library.
+
+## Output
+
+### scanner.py
+Generates **library.json** with comprehensive metadata:
+- Song title, artist, album, year, length
+- Platform availability (PC, Mac, or both)
+- File paths for each platform
+- **Arrangements**: Lead, Rhythm, Bass, Combo, Vocals
+- **Tunings**: Named tunings (E Standard, Drop D, DADGAD, etc.) for each arrangement
+
+### organize.py
+Creates an **organized directory structure**:
+```
+rocksmith-dlc/
+├── Avenged Sevenfold/
+│   ├── song1_p.psarc
+│   └── song1_m.psarc
+├── Metallica/
+│   ├── song2_p.psarc
+│   └── song3_p.psarc
+└── ...
+```
+
+## Web Viewer
+
+A static web viewer is included in the `docs/` directory for browsing your library in a browser.
+
+### Setup GitHub Pages
+
+1. Generate your library:
+   ```bash
+   python scanner.py /path/to/rocksmith/dlc
+   ```
+
+2. Copy library.json to docs:
+   ```bash
+   cp library.json docs/library.json
+   ```
+
+3. Enable GitHub Pages in your repository settings (deploy from `/docs` folder)
+
+### Features
+
+- 🔍 Search and filter songs
+- 📊 View library statistics
+- 🎸 Browse arrangements and tunings
+- 📱 Mobile-friendly interface
+- 🌙 Dark theme
+- ⬇️ Optional Dropbox download links
+
+### Dropbox Integration
+
+Enable download links by editing `docs/config.js`:
+
+```javascript
+const CONFIG = {
+    dropboxBaseUrl: "https://www.dropbox.com/home/RockSmithDLC",
+    dropboxOrganizedByArtist: true,
+};
+```
+
+Platform badges (PC/Mac) become clickable download links when configured.
+
+See [docs/README.md](docs/README.md) for more details.
+
+## License
+
+MIT

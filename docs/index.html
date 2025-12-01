@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rocksmith Library Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="config.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎸 Rocksmith Library Viewer</h1>
+            <p class="subtitle">Browse your custom song collection</p>
+        </header>
+
+        <div class="stats-bar" id="statsBar">
+            <div class="stat">
+                <span class="stat-value" id="totalSongs">-</span>
+                <span class="stat-label">Total Songs</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="totalArtists">-</span>
+                <span class="stat-label">Artists</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="leadCount">-</span>
+                <span class="stat-label">Lead</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="rhythmCount">-</span>
+                <span class="stat-label">Rhythm</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="bassCount">-</span>
+                <span class="stat-label">Bass</span>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search by title, artist, or album...">
+            </div>
+
+            <div class="filters">
+                <select id="artistFilter">
+                    <option value="">All Artists</option>
+                </select>
+
+                <select id="arrangementFilter">
+                    <option value="">All Arrangements</option>
+                    <option value="Lead">Lead</option>
+                    <option value="Rhythm">Rhythm</option>
+                    <option value="Bass">Bass</option>
+                    <option value="Vocals">Vocals</option>
+                    <option value="Combo">Combo</option>
+                </select>
+
+                <select id="tuningFilter">
+                    <option value="">All Tunings</option>
+                </select>
+
+                <select id="platformFilter">
+                    <option value="">All Platforms</option>
+                    <option value="PC">PC Only</option>
+                    <option value="Mac">Mac Only</option>
+                    <option value="Both">Both Platforms</option>
+                </select>
+
+                <button id="resetFilters" class="reset-btn">Reset Filters</button>
+            </div>
+        </div>
+
+        <div id="loadingMessage" class="loading">
+            Loading library...
+        </div>
+
+        <div id="errorMessage" class="error" style="display: none;">
+            Error loading library. Please ensure library.json is in the docs/ folder.
+        </div>
+
+        <div class="results-info">
+            <span id="resultCount">0 songs</span>
+        </div>
+
+        <div id="songList" class="song-list">
+            <!-- Songs will be inserted here -->
+        </div>
+    </div>
+
+    <script src="viewer.js"></script>
+</body>
+</html>
