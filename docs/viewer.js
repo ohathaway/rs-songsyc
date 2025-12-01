@@ -238,12 +238,15 @@ function createSongCard(song) {
     }).join('');
 
     // Arrangements
-    const arrangementsHTML = (song.arrangements || []).map(arr => `
-        <div class="arrangement">
-            <div class="arrangement-type">${arr.type || arr.name}</div>
-            <div class="arrangement-tuning">${arr.tuning || 'Unknown'}</div>
-        </div>
-    `).join('');
+    const arrangementsHTML = (song.arrangements || []).map(arr => {
+        const showTuning = arr.type !== 'Vocals';
+        return `
+            <div class="arrangement">
+                <div class="arrangement-type">${arr.type || arr.name}</div>
+                ${showTuning ? `<div class="arrangement-tuning">${arr.tuning || 'Unknown'}</div>` : ''}
+            </div>
+        `;
+    }).join('');
 
     // Album info
     const albumInfo = song.album && song.album !== 'Unknown'
