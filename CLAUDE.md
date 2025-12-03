@@ -59,6 +59,61 @@ Main metadata scanner that:
 
 Usage: `python scanner.py <path-to-rocksmith-dlc-folder>`
 
+### split_psarc.py
+Utility to split bundled PSARC files (like rs1compatibilitydlc_p.psarc) into individual song files:
+- Analyzes bundled PSARC files to identify individual songs
+- Extracts and groups files belonging to each song
+- Creates separate PSARC files for each song
+- Automatically generates appropriate filenames based on artist and title
+- **Safety features**:
+  - Dry-run mode to preview what would be created
+  - Confirmation prompt before creating files
+  - Preserves platform suffix (_p.psarc or _m.psarc)
+  - Clean temporary file handling
+
+**Usage:**
+```bash
+# Preview what songs would be extracted (dry-run)
+python split_psarc.py /path/to/bundled_file.psarc --dry-run
+
+# Split into individual files (default output: source_split/)
+python split_psarc.py /path/to/bundled_file.psarc
+
+# Specify custom output directory
+python split_psarc.py /path/to/bundled_file.psarc -o /path/to/output/
+```
+
+**Note:** This is useful for bundled archives like RS1 compatibility packs where multiple songs are in one file.
+
+### convert_platform.py
+Platform converter to convert PSARC files between PC and Mac:
+- Auto-detects source platform from filename or file contents
+- Re-encrypts .sng files with target platform's encryption key
+- Updates file paths for target platform (songs/bin/generic/ ↔ songs/bin/macos/)
+- Creates properly formatted PSARC for target platform
+- **Safety features**:
+  - Dry-run mode to preview conversion
+  - Confirmation prompt before converting
+  - Validates source and target platforms
+  - Clean temporary file handling
+
+**Usage:**
+```bash
+# Preview conversion (dry-run)
+python convert_platform.py /path/to/song_p.psarc mac --dry-run
+
+# Convert PC to Mac
+python convert_platform.py /path/to/song_p.psarc mac
+
+# Convert Mac to PC
+python convert_platform.py /path/to/song_m.psarc pc
+
+# Specify output directory
+python convert_platform.py /path/to/song.psarc mac -o /output/
+```
+
+**Note:** Rocksmith uses platform-specific encryption for .sng chart files. This tool handles the decryption/re-encryption automatically.
+
 ### organize.py
 File organizer that moves PSARC files into artist-named directories:
 - Scans directory for PSARC files in the root level

@@ -61,6 +61,53 @@ This will:
 - Create artist-named subdirectories
 - Move files into their respective artist folders
 
+### Splitting Bundled PSARC Files
+
+Some PSARC files contain multiple songs (like RS1 compatibility packs). Use the splitter to extract individual songs:
+
+```bash
+# Preview what would be extracted
+python split_psarc.py /path/to/bundled_file.psarc --dry-run
+
+# Split into individual song files
+python split_psarc.py /path/to/bundled_file.psarc
+
+# Specify output directory
+python split_psarc.py /path/to/bundled_file.psarc -o /output/directory/
+```
+
+This will:
+- Analyze the bundled PSARC to identify individual songs
+- Extract each song with all its associated files
+- Create separate PSARC files for each song
+- Generate appropriate filenames (Artist_Title_v1_p.psarc)
+
+### Converting Between PC and Mac
+
+Convert PSARC files between PC and Mac platforms:
+
+```bash
+# Preview conversion (dry-run)
+python convert_platform.py /path/to/song_p.psarc mac --dry-run
+
+# Convert PC to Mac
+python convert_platform.py /path/to/song_p.psarc mac
+
+# Convert Mac to PC
+python convert_platform.py /path/to/song_m.psarc pc
+
+# Specify output directory
+python convert_platform.py /path/to/song_p.psarc mac -o /output/directory/
+```
+
+This will:
+- Detect the source platform automatically
+- Re-encrypt .sng files with the target platform's encryption key
+- Update file paths for the target platform
+- Create a properly formatted PSARC for the target platform
+
+**Note:** The conversion process handles the platform-specific encryption that Rocksmith uses for its chart files (.sng).
+
 ## File Naming Conventions
 
 Rocksmith PSARC files follow these patterns:
