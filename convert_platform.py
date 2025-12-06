@@ -134,7 +134,9 @@ class PlatformConverter:
             print("Extracting source archive...")
 
             # Extract and convert files
-            with Welder(self.source_psarc, 'r', sng_crypto=True) as psarc:
+            # Use sng_crypto=False to get raw encrypted .sng data
+            # We'll manually decrypt/re-encrypt with the correct platform keys
+            with Welder(self.source_psarc, 'r', sng_crypto=False) as psarc:
                 for i in psarc:
                     file_name = psarc.arc_name(i)
                     file_data = psarc.arc_data(i)
