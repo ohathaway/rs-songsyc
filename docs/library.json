@@ -1,5 +1,5 @@
 {
-  "total_songs": 2251,
+  "total_songs": 2274,
   "songs": [
     {
       "song_key": "3DooAway",
@@ -3168,6 +3168,138 @@
       ],
       "files": {
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Alien Ant Farm/aliemovi_p.psarc"
+      }
+    },
+    {
+      "song_key": "laAlienAhiKa",
+      "title": "Ahi Ka",
+      "artist": "Alien Weaponry",
+      "album": "Tangaroa",
+      "year": 2019,
+      "song_length": 228.51,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (666666)"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Alien Weaponry/Alien-Weaponry_Ahi-Ka_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Alien Weaponry/Alien-Weaponry_Ahi-Ka_v1_m.psarc"
+      }
+    },
+    {
+      "song_key": "laAlienBurie",
+      "title": "Buried Underground",
+      "artist": "Alien Weaponry",
+      "album": "Tangaroa",
+      "year": 2021,
+      "song_length": 239.871,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (777777)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "B Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "B Standard"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Alien Weaponry/Alien-Weaponry_Buried-Underground_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Alien Weaponry/Alien-Weaponry_Buried-Underground_v1_p.psarc"
+      }
+    },
+    {
+      "song_key": "laAlienPonat",
+      "title": "Ponaturi",
+      "artist": "Alien Weaponry",
+      "album": "Te Ra",
+      "year": 2025,
+      "song_length": 261.518,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (777777)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "B Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "B Standard"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Alien Weaponry/Alien-Weaponry_Ponaturi_v1_1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Alien Weaponry/Alien-Weaponry_Ponaturi_v1_1_p.psarc"
+      }
+    },
+    {
+      "song_key": "laAlienTaniw",
+      "title": "Taniwha (feat. Randy Blythe)",
+      "artist": "Alien Weaponry",
+      "album": "Te Ra",
+      "year": 2025,
+      "song_length": 298.729,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Eb Drop Db"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Alien Weaponry/Alien-Weaponry_Taniwha-feat-Randy-Blythe_v1_3_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Alien Weaponry/Alien-Weaponry_Taniwha-feat-Randy-Blythe_v1_3_p.psarc"
       }
     },
     {
@@ -11738,6 +11870,39 @@
       }
     },
     {
+      "song_key": "CusBBHeadspin",
+      "title": "Headspin",
+      "artist": "Butcher Babies",
+      "album": "Lilith",
+      "year": 2017,
+      "song_length": 221.102,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Eb Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Custom (-6-6-6-6-5-6)"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Custom (-6-6-6-6-5-6)"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Butcher Babies/Butcher-Babies_Headspin_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Butcher Babies/Butcher-Babies_Headspin_v1_p.psarc"
+      }
+    },
+    {
       "song_key": "BuzzEver",
       "title": "Ever Fallen in Love (With Someone You Shouldn't've)",
       "artist": "Buzzcocks",
@@ -16782,6 +16947,44 @@
       }
     },
     {
+      "song_key": "palDeftonesBackToSchool2",
+      "title": "Back to School (Mini Maggit)",
+      "artist": "Deftones",
+      "album": "White Pony",
+      "year": 2000,
+      "song_length": 247.036,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Back-to-School-Mini-Maggit_v2_0_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Back-to-School-Mini-Maggit_v2.0_p.psarc"
+      }
+    },
+    {
       "song_key": "DeftQuiet",
       "title": "Be Quiet and Drive (Far Away)",
       "artist": "Deftones",
@@ -16953,6 +17156,72 @@
       }
     },
     {
+      "song_key": "RaDeftoEngin",
+      "title": "Engine No. 9",
+      "artist": "Deftones",
+      "album": "Adrenaline",
+      "year": 1995,
+      "song_length": 222.5,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "E Standard"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Engine-No-9_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Engine-No-9_v1_p.psarc"
+      }
+    },
+    {
+      "song_key": "ShiDeftonesFist",
+      "title": "Fist",
+      "artist": "Deftones",
+      "album": "Adrenaline",
+      "year": 1995,
+      "song_length": 208.488,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Fist_v2_5_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Fist_v2_5_DD_m.psarc"
+      }
+    },
+    {
       "song_key": "CusDeftonesGoodMorningBeautifu",
       "title": "Good Morning Beautiful",
       "artist": "Deftones",
@@ -17113,6 +17382,67 @@
       }
     },
     {
+      "song_key": "CusDeftonesNeedlesandPins",
+      "title": "Needles and Pins",
+      "artist": "Deftones",
+      "album": "Deftones",
+      "year": 2003,
+      "song_length": 206.065,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (-3-1-1-100)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Drop Db"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Needles-and-Pins_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Needles-and-Pins_v1_p.psarc"
+      }
+    },
+    {
+      "song_key": "ShiDeftonesNosebleed",
+      "title": "Nosebleed",
+      "artist": "Deftones",
+      "album": "Adrenaline",
+      "year": 1995,
+      "song_length": 271.099,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Nosebleed_v2_DD_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Nosebleed_v2_DD_p.psarc"
+      }
+    },
+    {
       "song_key": "CusDeftonesPassenger",
       "title": "Passenger",
       "artist": "Deftones",
@@ -17182,6 +17512,39 @@
       }
     },
     {
+      "song_key": "ShiDeftonesPinkMaggit",
+      "title": "Pink Maggit",
+      "artist": "Deftones",
+      "album": "White Pony",
+      "year": 2000,
+      "song_length": 462.388,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Pink-Maggit_v2_1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Pink-Maggit_v2_1_DD_m.psarc"
+      }
+    },
+    {
       "song_key": "CusDeftonesPrince",
       "title": "Prince",
       "artist": "Deftones",
@@ -17233,6 +17596,44 @@
       }
     },
     {
+      "song_key": "ShiDeftonesRickets",
+      "title": "Rickets",
+      "artist": "Deftones",
+      "album": "Around the Fur",
+      "year": 1997,
+      "song_length": 167.697,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Rickets_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Rickets_v1_DD_m.psarc"
+      }
+    },
+    {
       "song_key": "CusDeftonesRisk",
       "title": "Risk",
       "artist": "Deftones",
@@ -17258,6 +17659,39 @@
       "files": {
         "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Risk_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Risk_v1_p.psarc"
+      }
+    },
+    {
+      "song_key": "CusDeftonesRomanticDreams",
+      "title": "Romantic Dreams",
+      "artist": "Deftones",
+      "album": "Koi No Yokan",
+      "year": 2012,
+      "song_length": 281.164,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Custom (-5-5-5-5-4-5)"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Custom (-5-5-5-5-4-5)"
+        },
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (177770)"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Romantic-Dreams_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Romantic-Dreams_v1_m.psarc"
       }
     },
     {
@@ -17432,6 +17866,44 @@
       "files": {
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_The-Chauffeur_v1_DD_p.psarc",
         "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_The-Chauffeur_v1_DD_m.psarc"
+      }
+    },
+    {
+      "song_key": "ShiDeftonesXerces",
+      "title": "Xerces",
+      "artist": "Deftones",
+      "album": "Saturday Night Wrist",
+      "year": 2006,
+      "song_length": 227.915,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Drop D"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Drop D"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Drop D"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Xerces_v1_5_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Deftones/Deftones_Xerces_v1_5_DD_m.psarc"
       }
     },
     {
@@ -18626,37 +19098,6 @@
       }
     },
     {
-      "song_key": "aleDownWhereImGoing",
-      "title": "aleDownWhereImGoing_Vocals",
-      "artist": "Down",
-      "album": "Down II",
-      "year": 0,
-      "song_length": 0,
-      "arrangements": [
-        {
-          "name": "Vocals",
-          "type": "Vocals",
-          "tuning": "Unknown"
-        },
-        {
-          "name": "Rhythm",
-          "type": "Rhythm",
-          "tuning": "D Drop C"
-        },
-        {
-          "name": "Lead",
-          "type": "Lead",
-          "tuning": "D Drop C"
-        }
-      ],
-      "platforms": [
-        "PC"
-      ],
-      "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Where-I'm-Going_v1_DD_p.psarc"
-      }
-    },
-    {
       "song_key": "BuryMeInSmoke",
       "title": "Bury Me In Smoke",
       "artist": "Down",
@@ -18686,10 +19127,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Bury_me_in_Smoke_v2_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Bury_me_in_Smoke_v2_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Bury_me_in_Smoke_v2_DD_m.psarc"
       }
     },
     {
@@ -18722,10 +19165,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Eyes-Of-The-South_v5_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Eyes-Of-The-South_v5_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Eyes-Of-The-South_v5_DD_m.psarc"
       }
     },
     {
@@ -18743,9 +19188,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Hail-the-Leaf_v2_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Hail-the-Leaf_v2_p.psarc"
       }
     },
@@ -18878,10 +19325,45 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Theres-Something-On-My-Side_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Theres-Something-On-My-Side_v1_p.psarc"
+      }
+    },
+    {
+      "song_key": "aleDownWhereImGoing",
+      "title": "Where I'm Going",
+      "artist": "Down",
+      "album": "Down II",
+      "year": 2002,
+      "song_length": 193.689,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Where-I'm-Going_v1_DD_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Down/Down_Where-I'm-Going_v1_DD_p.psarc"
       }
     },
     {
@@ -25734,10 +26216,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_Adoration-for-None_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_Adoration-for-None_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_Adoration-for-None_v1_m.psarc"
       }
     },
     {
@@ -25779,32 +26263,27 @@
       }
     },
     {
-      "song_key": "gojirathefall",
-      "title": "gojirathefall_Vocals",
+      "song_key": "ShGojirTheAr",
+      "title": "The Art of Dying",
       "artist": "Gojira",
-      "album": "L'Enfant Sauvage",
-      "year": 0,
-      "song_length": 0,
+      "album": "The Way of All Flesh",
+      "year": 2008,
+      "song_length": 594.212,
       "arrangements": [
         {
-          "name": "Vocals",
-          "type": "Vocals",
-          "tuning": "Unknown"
-        },
-        {
-          "name": "Rhythm",
-          "type": "Rhythm",
-          "tuning": "D Standard"
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (-4-2-2-4-4-4)"
         },
         {
           "name": "Lead",
           "type": "Lead",
-          "tuning": "D Standard"
+          "tuning": "Custom (-4-2-2-4-4-4)"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "D Standard"
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Custom (-4-2-2-4-4-4)"
         }
       ],
       "platforms": [
@@ -25812,8 +26291,8 @@
         "PC"
       ],
       "files": {
-        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_The-Fall_v1_m.psarc",
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_The-Fall_v1_p.psarc"
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_Art-of-Dying_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_Art-of-Dying_v1_p.psarc"
       }
     },
     {
@@ -25890,6 +26369,44 @@
       "files": {
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_Chant-The_v1_p.psarc",
         "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_Chant-The_v1_m.psarc"
+      }
+    },
+    {
+      "song_key": "gojirathefall",
+      "title": "The Fall",
+      "artist": "Gojira",
+      "album": "L'Enfant Sauvage",
+      "year": 2012,
+      "song_length": 326.785,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "D Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "D Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "D Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_The-Fall_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Gojira/Gojira_The-Fall_v1_p.psarc"
       }
     },
     {
@@ -28184,6 +28701,34 @@
       }
     },
     {
+      "song_key": "SeHelly333",
+      "title": "333",
+      "artist": "Hellyeah",
+      "album": "Welcome Home",
+      "year": 2019,
+      "song_length": 218.34,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (-4-2-2-200)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "D Drop C"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Hellyeah/Hellyeah_333_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Hellyeah/Hellyeah_333_v1_p.psarc"
+      }
+    },
+    {
       "song_key": "actHELLYEAHDemonsintheDirt",
       "title": "actHELLYEAHDemonsintheDirt_Vocals",
       "artist": "HELLYEAH",
@@ -28397,6 +28942,39 @@
       "files": {
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Hellyeah/Hellyeah_Moth_v1_p.psarc",
         "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Hellyeah/Hellyeah_Moth_v1_m.psarc"
+      }
+    },
+    {
+      "song_key": "SeHellyOhMyG",
+      "title": "Oh My God",
+      "artist": "Hellyeah",
+      "album": "Welcome Home",
+      "year": 2019,
+      "song_length": 257.527,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "D Drop C"
+        },
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (-4-2-2-200)"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Hellyeah/Hellyeah_Oh-My-God_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Hellyeah/Hellyeah_Oh-My-God_v1_m.psarc"
       }
     },
     {
@@ -32857,10 +33435,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Judgement-Punishment-Pitch_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Judgement-Punishment-Pitch_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Judgement-Punishment-Pitch_v1_m.psarc"
       }
     },
     {
@@ -32939,10 +33519,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Mediator_v2_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Mediator_v2_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Mediator_v2_DD_m.psarc"
       }
     },
     {
@@ -32960,10 +33542,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Micro_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Micro_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Micro_v1_m.psarc"
       }
     },
     {
@@ -33070,10 +33654,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Objects-In-Mirror-Are-Closer-Than-They-Appear_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Objects-In-Mirror-Are-Closer-Than-They-Appear_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Objects-In-Mirror-Are-Closer-Than-They-Appear_v1_m.psarc"
       }
     },
     {
@@ -33317,10 +33903,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Teacher-Teacher_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Teacher-Teacher_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Teacher-Teacher_v1_m.psarc"
       }
     },
     {
@@ -33353,10 +33941,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Until-the-End_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Until-the-End_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Until-the-End_v1_m.psarc"
       }
     },
     {
@@ -33412,9 +34002,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Waltz_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Waltz_v1_p.psarc"
       }
     },
@@ -33448,10 +34040,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_When-Two-Empires-Collide_v2_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_When-Two-Empires-Collide_v2_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_When-Two-Empires-Collide_v2_m.psarc"
       }
     },
     {
@@ -33479,9 +34073,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Who-is-Gonna-Be-the-One_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Who-is-Gonna-Be-the-One_v1_p.psarc"
       }
     },
@@ -33494,9 +34090,9 @@
       "song_length": 220.349,
       "arrangements": [
         {
-          "name": "Rhythm",
-          "type": "Rhythm",
-          "tuning": "B Drop A"
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (577777)"
         },
         {
           "name": "Lead",
@@ -33504,9 +34100,9 @@
           "tuning": "B Drop A"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Custom (577777)"
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "B Drop A"
         },
         {
           "name": "Vocals",
@@ -33515,9 +34111,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Words-Of-Wisdom_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Jinjer/Jinjer_Words-Of-Wisdom_v1_p.psarc"
       }
     },
@@ -37303,6 +37901,29 @@
       }
     },
     {
+      "song_key": "SeLambOGomor",
+      "title": "Gomorrah",
+      "artist": "Lamb Of God",
+      "album": "Omens",
+      "year": 2022,
+      "song_length": 255.718,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "D Drop C"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Lamb of God/Lamb-Of-God_Gomorrah_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Lamb of God/Lamb-Of-God_Gomorrah_v1_m.psarc"
+      }
+    },
+    {
       "song_key": "LoGHourglass",
       "title": "Hourglass",
       "artist": "Lamb of God",
@@ -37394,6 +38015,39 @@
       "files": {
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Lamb of God/Lamb-of-God_In-The-Absence-Of-The-Sacred_v2_p.psarc",
         "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Lamb of God/Lamb-of-God_In-The-Absence-Of-The-Sacred_v2_m.psarc"
+      }
+    },
+    {
+      "song_key": "JimLOGInvictus",
+      "title": "Invictus",
+      "artist": "Lamb of God",
+      "album": "Resolution",
+      "year": 2012,
+      "song_length": 255.679,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Eb Drop Db"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Lamb of God/Lamb-of-God_Invictus_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Lamb of God/Lamb-of-God_Invictus_v1_DD_m.psarc"
       }
     },
     {
@@ -59543,40 +60197,7 @@
       }
     },
     {
-      "song_key": "BeforeIForget",
-      "title": "Before I Forget",
-      "artist": "Slipknot",
-      "album": "Vol.3 The Subliminal Verces",
-      "year": 2004,
-      "song_length": 283.685,
-      "arrangements": [
-        {
-          "name": "Lead",
-          "type": "Lead",
-          "tuning": "C# Drop B"
-        },
-        {
-          "name": "Rhythm",
-          "type": "Rhythm",
-          "tuning": "C# Drop B"
-        },
-        {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Open A"
-        }
-      ],
-      "platforms": [
-        "PC",
-        "Mac"
-      ],
-      "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Slipknot/Slipknot_Before-I-Forget_v3_p.psarc",
-        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Slipknot/Slipknot_Before-I-Forget_v3_m.psarc"
-      }
-    },
-    {
-      "song_key": "DellBeforeIForgetBeforeIForgetV1",
+      "song_key": "DellSlipknotBeforeIForgetV2",
       "title": "Before I Forget",
       "artist": "Slipknot",
       "album": "Vol. 3: (The Subliminal Verses)",
@@ -59605,10 +60226,10 @@
         }
       ],
       "platforms": [
-        "PC"
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Slipknot/Slipknot_Before-I-ForgetDell_v1_p.psarc"
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Slipknot/Slipknot_Before-I-Forget_Dell_v2_m.psarc"
       }
     },
     {
@@ -75892,6 +76513,44 @@
       }
     },
     {
+      "song_key": "TriviumDownfromtheSkyNacho",
+      "title": "Down from the Sky",
+      "artist": "Trivium",
+      "album": "Shogun",
+      "year": 2008,
+      "song_length": 337.439,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (777777)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_Down-from-the-Sky_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_Down-from-the-Sky_v1_p.psarc"
+      }
+    },
+    {
       "song_key": "TrivDyin",
       "title": "Dying in Your Arms",
       "artist": "Trivium",
@@ -75968,6 +76627,44 @@
       }
     },
     {
+      "song_key": "TriviumKirisuteGomenNacho",
+      "title": "Kirisute Gomen",
+      "artist": "Trivium",
+      "album": "Shogun",
+      "year": 2008,
+      "song_length": 390.399,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (777777)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_Kirisute-Gomen_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_Kirisute-Gomen_v1_p.psarc"
+      }
+    },
+    {
       "song_key": "TrivPull",
       "title": "Pull Harder on the Strings of Your Martyr",
       "artist": "Trivium",
@@ -76039,6 +76736,115 @@
       ],
       "files": {
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Trivium/trivstri_p.psarc"
+      }
+    },
+    {
+      "song_key": "TriviumTheCalamityNacho",
+      "title": "The Calamity",
+      "artist": "Trivium",
+      "album": "Shogun",
+      "year": 2008,
+      "song_length": 301.145,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (777777)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_The-Calamity_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_The-Calamity_v1_p.psarc"
+      }
+    },
+    {
+      "song_key": "Thrown_into_fire_Bass_Fix3",
+      "title": "Thrown Into Fire",
+      "artist": "Trivium",
+      "album": "The Sin and the Sentence",
+      "year": 2017,
+      "song_length": 332.443,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (6-6-6-6-6-6)"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Custom (-6-6-6-6-5-6)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Standard"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_Thrown-Into-Fire_v4_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_Thrown-Into-Fire_v4_m.psarc"
+      }
+    },
+    {
+      "song_key": "CusTriviumWatchtheWorldBurn",
+      "title": "Watch the World Burn",
+      "artist": "Trivium",
+      "album": "In Waves",
+      "year": 2011,
+      "song_length": 298.119,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Eb Drop Db"
+        },
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (-3-1-1-100)"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_Watch-the-World-Burn_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Trivium/Trivium_Watch-the-World-Burn_v1_DD_m.psarc"
       }
     },
     {
