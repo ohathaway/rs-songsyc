@@ -101,24 +101,58 @@ class RocksmithScanner:
         """
         try:
             with Welder(psarc_path, 'r') as psarc:
-                # Look for manifest files
+                # First pass: find and parse toolkit.version for creator info
+                creator = self._extract_creator(psarc)
+
+                # Second pass: process song manifests
                 for i in psarc:
                     file_name = psarc.arc_name(i)
 
                     # Process JSON manifests (contains song metadata)
                     if file_name.startswith("manifests/songs") and file_name.endswith(".json"):
-                        self._extract_song_metadata(psarc, i, psarc_path)
+                        self._extract_song_metadata(psarc, i, psarc_path, creator)
 
         except Exception as e:
             print(f"Error processing {psarc_path.name}: {e}")
 
-    def _extract_song_metadata(self, psarc: Welder, index: int, psarc_path: Path) -> None:
+    def _extract_creator(self, psarc: Welder) -> Optional[str]:
+        """Extract package author from toolkit.version inside the archive.
+
+        Args:
+            psarc: Welder instance
+
+        Returns:
+            Creator/author string, or None if not found
+        """
+        try:
+            for i in psarc:
+                if psarc.arc_name(i).lower().endswith("toolkit.version"):
+                    text = psarc.arc_data(i).decode(errors="replace")
+                    for line in text.splitlines():
+                        if ":" in line:
+                            key, _, value = line.partition(":")
+                            if key.strip().lower() == "package author":
+                                value = value.strip()
+                                return value or None
+                    return None
+        except Exception:
+            return None
+        return None
+
+    def _extract_song_metadata(
+        self,
+        psarc: Welder,
+        index: int,
+        psarc_path: Path,
+        creator: Optional[str] = None,
+    ) -> None:
         """Extract song metadata from manifest JSON.
 
         Args:
             psarc: Welder instance
             index: File index in archive
             psarc_path: Path to the PSARC file
+            creator: Package author parsed from toolkit.version, if available
         """
         try:
             data = psarc.arc_data(index)
@@ -138,6 +172,8 @@ class RocksmithScanner:
             album = None
             year = None
             song_length = None
+            created_date = None
+            toolkit_version = None
 
             for entry_key, entry_data in entries.items():
                 attributes = entry_data.get("Attributes", {})
@@ -150,6 +186,8 @@ class RocksmithScanner:
                     album = attributes.get("AlbumName", "Unknown")
                     year = attributes.get("SongYear", 0)
                     song_length = attributes.get("SongLength", 0)
+                    created_date = attributes.get("LastConversionDateTime") or None
+                    toolkit_version = attributes.get("ToolkitVersion") or None
 
                 # Extract arrangement-specific info
                 arrangement_name = attributes.get("ArrangementName", "Unknown")
@@ -165,6 +203,9 @@ class RocksmithScanner:
             # Determine platform from filename
             platform = self._get_platform(psarc_path)
 
+            # Fall back to ToolkitVersion attribute if no Package Author was found
+            resolved_creator = creator or self._creator_from_toolkit_version(toolkit_version)
+
             # Use song_key as unique identifier
             if song_key not in self.songs:
                 self.songs[song_key] = {
@@ -174,6 +215,8 @@ class RocksmithScanner:
                     "album": album,
                     "year": year,
                     "song_length": song_length,
+                    "creator": resolved_creator,
+                    "created_date": created_date,
                     "arrangements": [],
                     "platforms": [],
                     "files": {}
@@ -204,9 +247,33 @@ class RocksmithScanner:
                 song_data["artist"] = artist
             if song_data["album"] == "Unknown" and album != "Unknown":
                 song_data["album"] = album
+            if not song_data.get("creator") and resolved_creator:
+                song_data["creator"] = resolved_creator
+            if not song_data.get("created_date") and created_date:
+                song_data["created_date"] = created_date
 
         except Exception as e:
             print(f"Error extracting metadata from manifest: {e}")
+
+    @staticmethod
+    def _creator_from_toolkit_version(toolkit_version: Optional[str]) -> Optional[str]:
+        """Best-effort parse of a creator name from a ToolkitVersion attribute.
+
+        Some toolkits embed the author as `... (User: <name>)` or similar.
+        Returns None if no name is parseable.
+        """
+        if not toolkit_version or not isinstance(toolkit_version, str):
+            return None
+        # Look for "(User: <name>)" or "User: <name>"
+        marker = "user:"
+        lower = toolkit_version.lower()
+        idx = lower.find(marker)
+        if idx == -1:
+            return None
+        rest = toolkit_version[idx + len(marker):].strip()
+        # Strip trailing closing parens / punctuation
+        rest = rest.rstrip(")").strip()
+        return rest or None
 
     def _get_arrangement_type(self, attributes: Dict[str, Any]) -> str:
         """Determine arrangement type (Lead, Rhythm, Bass, Combo, Vocals).

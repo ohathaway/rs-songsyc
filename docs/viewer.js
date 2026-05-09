@@ -8,6 +8,7 @@ const searchInput = document.getElementById('searchInput');
 const artistFilter = document.getElementById('artistFilter');
 const arrangementFilter = document.getElementById('arrangementFilter');
 const tuningFilter = document.getElementById('tuningFilter');
+const creatorFilter = document.getElementById('creatorFilter');
 const platformFilter = document.getElementById('platformFilter');
 const resetFiltersBtn = document.getElementById('resetFilters');
 const songList = document.getElementById('songList');
@@ -66,6 +67,7 @@ function initializeViewer() {
     artistFilter.addEventListener('change', applyFilters);
     arrangementFilter.addEventListener('change', applyFilters);
     tuningFilter.addEventListener('change', applyFilters);
+    creatorFilter.addEventListener('change', applyFilters);
     platformFilter.addEventListener('change', applyFilters);
     resetFiltersBtn.addEventListener('click', resetFilters);
 }
@@ -121,6 +123,20 @@ function populateFilters() {
         option.textContent = tuning;
         tuningFilter.appendChild(option);
     });
+
+    // Creators
+    const creators = new Set();
+    songs.forEach(song => {
+        if (song.creator) creators.add(song.creator);
+    });
+
+    [...creators].sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }))
+        .forEach(creator => {
+            const option = document.createElement('option');
+            option.value = creator;
+            option.textContent = creator;
+            creatorFilter.appendChild(option);
+        });
 }
 
 // Apply all filters
@@ -129,6 +145,7 @@ function applyFilters() {
     const selectedArtist = artistFilter.value;
     const selectedArrangement = arrangementFilter.value;
     const selectedTuning = tuningFilter.value;
+    const selectedCreator = creatorFilter.value;
     const selectedPlatform = platformFilter.value;
 
     filteredSongs = libraryData.songs.filter(song => {
@@ -137,7 +154,8 @@ function applyFilters() {
             const searchMatch =
                 song.title.toLowerCase().includes(searchTerm) ||
                 song.artist.toLowerCase().includes(searchTerm) ||
-                (song.album && song.album.toLowerCase().includes(searchTerm));
+                (song.album && song.album.toLowerCase().includes(searchTerm)) ||
+                (song.creator && song.creator.toLowerCase().includes(searchTerm));
 
             if (!searchMatch) return false;
         }
@@ -161,6 +179,11 @@ function applyFilters() {
                 a => a.tuning === selectedTuning
             );
             if (!hasTuning) return false;
+        }
+
+        // Creator filter
+        if (selectedCreator && song.creator !== selectedCreator) {
+            return false;
         }
 
         // Platform filter
@@ -257,12 +280,25 @@ function createSongCard(song) {
         ? `${albumInfo ? ' • ' : ''}${song.year}`
         : '';
 
+    // CDLC creator / created date
+    const creatorParts = [];
+    if (song.creator) {
+        creatorParts.push(`Created by ${escapeHtml(song.creator)}`);
+    }
+    if (song.created_date) {
+        creatorParts.push(escapeHtml(formatCreatedDate(song.created_date)));
+    }
+    const creatorHTML = creatorParts.length
+        ? `<div class="song-cdlc-meta">${creatorParts.join(' • ')}</div>`
+        : '';
+
     card.innerHTML = `
         <div class="song-header">
             <div class="song-info">
                 <div class="song-title">${escapeHtml(song.title)}</div>
                 <div class="song-artist">${escapeHtml(song.artist)}</div>
                 <div class="song-meta">${albumInfo}${yearInfo}</div>
+                ${creatorHTML}
             </div>
             <div class="platforms">
                 ${platformsHTML}
@@ -274,12 +310,28 @@ function createSongCard(song) {
     return card;
 }
 
+// Format a LastConversionDateTime string for display.
+// Toolkit writes dates like "10-21-19 18:16" (M-D-YY HH:MM).
+// Falls back to the original string if the format is unfamiliar.
+function formatCreatedDate(value) {
+    if (!value) return '';
+    const m = String(value).trim().match(/^(\d{1,2})-(\d{1,2})-(\d{2,4})(?:\s+(\d{1,2}):(\d{2}))?/);
+    if (!m) return String(value);
+    let [, mm, dd, yy, hh, mi] = m;
+    if (yy.length === 2) yy = (parseInt(yy, 10) >= 70 ? '19' : '20') + yy;
+    const date = new Date(parseInt(yy, 10), parseInt(mm, 10) - 1, parseInt(dd, 10),
+        hh ? parseInt(hh, 10) : 0, mi ? parseInt(mi, 10) : 0);
+    if (isNaN(date.getTime())) return String(value);
+    return date.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+}
+
 // Reset all filters
 function resetFilters() {
     searchInput.value = '';
     artistFilter.value = '';
     arrangementFilter.value = '';
     tuningFilter.value = '';
+    creatorFilter.value = '';
     platformFilter.value = '';
     applyFilters();
 }
