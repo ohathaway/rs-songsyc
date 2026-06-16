@@ -1,5 +1,5 @@
 {
-  "total_songs": 2327,
+  "total_songs": 2331,
   "songs": [
     {
       "song_key": "3DooAway",
@@ -7905,10 +7905,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bad-Omens_Like-A-Villain_v2_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bad-Omens_Like-A-Villain_v2_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bad Omens/Bad-Omens_Like-A-Villain_v2_m.psarc"
       }
     },
     {
@@ -7938,9 +7940,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bad Omens/Bad-Omens_Glass-Houses_v1_2_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bad Omens/Bad-Omens_Glass-Houses_v1_2_DD_p.psarc"
       }
     },
@@ -11950,10 +11954,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bring Me the Horizon/Bring-Me-The-Horizon_Drown_v3_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bring Me the Horizon/Bring-Me-The-Horizon_Drown_v3_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bring Me The Horizon/Bring-Me-The-Horizon_Drown_v3_m.psarc"
       }
     },
     {
@@ -11988,9 +11994,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bring Me The Horizon/Bring-Me-The-Horizon_Kingslayer-ft-BABYMETAL_v1_1_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bring Me the Horizon/Bring-Me-The-Horizon_Kingslayer-ft-BABYMETAL_v1_1_DD_p.psarc"
       }
     },
@@ -12005,6 +12013,11 @@
       "created_date": "01-7-24 14:29",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (688888)"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "C Drop A#"
@@ -12015,20 +12028,17 @@
           "tuning": "C Drop A#"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Custom (688888)"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bring Me The Horizon/Bring-Me-The-Horizon_Kool-Aid_v3_1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bring Me the Horizon/Bring-Me-The-Horizon_Kool-Aid_v3_1_p.psarc"
       }
     },
@@ -12064,9 +12074,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bring Me The Horizon/Bring-Me-The-Horizon_Ludens_v1_4_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bring Me the Horizon/Bring-Me-The-Horizon_Ludens_v1_4_DD_p.psarc"
       }
     },
@@ -12102,9 +12114,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bring Me The Horizon/Bring-Me-The-Horizon_Parasite-Eve_v1_4_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bring Me the Horizon/Bring-Me-The-Horizon_Parasite-Eve_v1_4_DD_p.psarc"
       }
     },
@@ -12130,9 +12144,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bring Me The Horizon/Bring-Me-The-Horizon_Shadow-Moses_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bring Me the Horizon/Bring-Me-The-Horizon_Shadow-Moses_v1_p.psarc"
       }
     },
@@ -12147,13 +12163,13 @@
       "created_date": "1-29-19 11:06",
       "arrangements": [
         {
-          "name": "Lead",
-          "type": "Lead",
+          "name": "Bass",
+          "type": "Bass",
           "tuning": "C Standard"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
+          "name": "Lead",
+          "type": "Lead",
           "tuning": "C Standard"
         },
         {
@@ -12163,9 +12179,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bring Me The Horizon/Bring-Me-The-Horizon_Sugar-honey-ice-and-tea_v1_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Bring Me the Horizon/Bring-Me-The-Horizon_Sugar-honey-ice-and-tea_v1_DD_p.psarc"
       }
     },
@@ -12689,10 +12707,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Cage The Elephant/Cage-The-Elephant_Aint-No-Rest-For-The-Wicked_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Cage The Elephant/Cage-The-Elephant_Aint-No-Rest-For-The-Wicked_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Cage The Elephant/Cage-The-Elephant_Aint-No-Rest-For-The-Wicked_v1_m.psarc"
       }
     },
     {
@@ -12727,10 +12747,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Cage The Elephant/Cage-The-Elephant_Come-a-Little-Closer_v6_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Cage The Elephant/Cage-The-Elephant_Come-a-Little-Closer_v6_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Cage The Elephant/Cage-The-Elephant_Come-a-Little-Closer_v6_m.psarc"
       }
     },
     {
@@ -13686,9 +13708,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Chiodos/Chiodos_Love-is-a-Cat-From-Hell_v3_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Chiodos/Chiodos_Love-is-a-Cat-From-Hell_v3_p.psarc"
       }
     },
@@ -14061,10 +14085,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/CKY/CKY_96-Quite-Bitter-Beings_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/CKY/CKY_96-Quite-Bitter-Beings_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/CKY/CKY_96-Quite-Bitter-Beings_v1_m.psarc"
       }
     },
     {
@@ -15077,10 +15103,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/CORPSE/CORPSE_Code-Mistake-ft-Bring-Me-The-HorizonDell_v2_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/CORPSE/CORPSE_Code-Mistake-ft-Bring-Me-The-HorizonDell_v2_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Bring Me The Horizon/CORPSE_Code-Mistake-ft-Bring-Me-The-HorizonDell_v2_m.psarc"
       }
     },
     {
@@ -15631,13 +15659,13 @@
       "created_date": "08-4-24 03:09",
       "arrangements": [
         {
-          "name": "Lead",
-          "type": "Lead",
+          "name": "Bass",
+          "type": "Bass",
           "tuning": "C Standard"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
+          "name": "Lead",
+          "type": "Lead",
           "tuning": "C Standard"
         },
         {
@@ -15647,9 +15675,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Crush 40/Crush-40_I-Am-All-Of-Me_v3_2_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Crush 40/Crush-40_I-Am-All-Of-Me_v3_2_p.psarc"
       }
     },
@@ -15930,8 +15960,6 @@
       "album": "Dance Gavin Dance",
       "year": 2008,
       "song_length": 268.906,
-      "creator": "Custom Song Creator",
-      "created_date": "10-24-14 17:19",
       "arrangements": [
         {
           "name": "Bass",
@@ -15955,10 +15983,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Alex-English_v11_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Alex-English_v11_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Alex-English_v11_m.psarc"
       }
     },
     {
@@ -15972,6 +16002,11 @@
       "created_date": "09-24-25 19:03",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (777777)"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "Eb Standard"
@@ -15982,20 +16017,17 @@
           "tuning": "Custom (-8-6-6-6-5-6)"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Custom (777777)"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_All-the-Way-Down_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_All-the-Way-Down_v1_p.psarc"
       }
     },
@@ -16010,6 +16042,11 @@
       "created_date": "02-12-25 05:18",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Drop D"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "Drop D"
@@ -16020,20 +16057,17 @@
           "tuning": "Drop D"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Drop D"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_And-I-Told-Them-I-Invented-Times-New-RomanMG_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_And-I-Told-Them-I-Invented-Times-New-RomanMG_v1_p.psarc"
       }
     },
@@ -16064,9 +16098,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Backwards-Pumpkin-Song_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Backwards-Pumpkin-Song_v1_p.psarc"
       }
     },
@@ -16097,10 +16133,50 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Betrayed-By-The-Game_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Betrayed-By-The-Game_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Betrayed-By-The-Game_v1_DD_m.psarc"
+      }
+    },
+    {
+      "song_key": "GaDanceBloodwolfv1",
+      "title": "Blood Wolf",
+      "artist": "Dance Gavin Dance",
+      "album": "Blood Wolf",
+      "year": 2019,
+      "song_length": 241.499,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Eb Standard"
+        },
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Eb Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Blood-WolfMG_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Blood-WolfMG_v1_m.psarc"
       }
     },
     {
@@ -16135,10 +16211,50 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Blood-WolfMG_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Betrayed-By-The-Game_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Betrayed-By-The-Game_v1_DD_m.psarc"
+      }
+    },
+    {
+      "song_key": "GaDanceBloodwolfv1",
+      "title": "Blood Wolf",
+      "artist": "Dance Gavin Dance",
+      "album": "Blood Wolf",
+      "year": 2019,
+      "song_length": 241.499,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Eb Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Eb Standard"
+        },
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Eb Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Blood-WolfMG_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Blood-WolfMG_v1_m.psarc"
       }
     },
     {
@@ -16173,10 +16289,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Blue-Dream_v23_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Blue-Dream_v23_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Blue-Dream_v23_m.psarc"
       }
     },
     {
@@ -16211,9 +16329,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Carl-Barker_v23_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin_Carl-Barker_v23_p.psarc"
       }
     },
@@ -16224,9 +16344,12 @@
       "album": "Dance Gavin Dance",
       "year": 2008,
       "song_length": 266.345,
-      "creator": "Gage",
-      "created_date": "11-28-25 20:09",
       "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Drop D"
+        },
         {
           "name": "Lead",
           "type": "Lead",
@@ -16238,20 +16361,17 @@
           "tuning": "Drop D"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Drop D"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_CaviarMG_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_CaviarMG_v1_p.psarc"
       }
     },
@@ -16287,10 +16407,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance-Gavin-Dance_Care_v2_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance-Gavin-Dance_Care_v2_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Care_v2_m.psarc"
       }
     },
     {
@@ -16325,10 +16447,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance-Gavin-Dance_Count-Bassy_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance-Gavin-Dance_Count-Bassy_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Count-Bassy_v1_DD_m.psarc"
       }
     },
     {
@@ -16363,10 +16487,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance-Gavin-Dance_Head-Hunter_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance-Gavin-Dance_Head-Hunter_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Head-Hunter_v1_DD_m.psarc"
       }
     },
     {
@@ -16401,10 +16527,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Jesus-H-Macy_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance-Gavin-Dance_Head-Hunter_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Head-Hunter_v1_DD_m.psarc"
       }
     },
     {
@@ -16429,9 +16557,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Death-of-a-Strawberry_v1_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Death-of-a-Strawberry_v1_DD_p.psarc"
       }
     },
@@ -16442,8 +16572,6 @@
       "album": "Mothership",
       "year": 2016,
       "song_length": 236.252,
-      "creator": "Phil Mena",
-      "created_date": "6-30-18 19:08",
       "arrangements": [
         {
           "name": "Bass",
@@ -16462,10 +16590,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Deception_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Deception_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Deception_v1_m.psarc"
       }
     },
     {
@@ -16495,10 +16625,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Die-Another-Day_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Die-Another-Day_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Die-Another-Day_v1_DD_m.psarc"
       }
     },
     {
@@ -16508,8 +16640,6 @@
       "album": "Instant Gratification",
       "year": 2015,
       "song_length": 182.147,
-      "creator": "Custom Song Creator",
-      "created_date": "2-23-20 0:08",
       "arrangements": [
         {
           "name": "Lead",
@@ -16533,10 +16663,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Eagle-Vs-Crows_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Eagle-Vs-Crows_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Eagle-Vs-Crows_v1_m.psarc"
       }
     },
     {
@@ -16546,8 +16678,6 @@
       "album": "Downtown Battle Mountain II",
       "year": 2011,
       "song_length": 225.335,
-      "creator": "Custom Song Creator",
-      "created_date": "8-24-14 23:14",
       "arrangements": [
         {
           "name": "Bass",
@@ -16571,9 +16701,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Elder-Goose_v25_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Elder-Goose_v25_p.psarc"
       }
     },
@@ -16604,10 +16736,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Feels-Bad-Man_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Feels-Bad-Man_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Feels-Bad-Man_v1_DD_m.psarc"
       }
     },
     {
@@ -16637,10 +16771,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_For-The-Jeers_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_For-The-Jeers_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_For-The-Jeers_v1_DD_m.psarc"
       }
     },
     {
@@ -16650,8 +16786,6 @@
       "album": "Downtown Battle Mountain II",
       "year": 2011,
       "song_length": 249.474,
-      "creator": "Custom Song Creator",
-      "created_date": "8-2-14 18:21",
       "arrangements": [
         {
           "name": "Bass",
@@ -16675,10 +16809,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Heat-Seeking-Ghost-of-Sex_v301_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Heat-Seeking-Ghost-of-Sex_v301_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Heat-Seeking-Ghost-of-Sex_v301_m.psarc"
       }
     },
     {
@@ -16688,8 +16824,6 @@
       "album": "Jackpot Juicer",
       "year": 2022,
       "song_length": 233.022,
-      "creator": "Custom Song Creator",
-      "created_date": "3-1-23 19:00",
       "arrangements": [
         {
           "name": "Bass",
@@ -16708,9 +16842,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Holy-Ghost-Spirit_v1_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Holy-Ghost-Spirit_v1_DD_p.psarc"
       }
     },
@@ -16721,8 +16857,6 @@
       "album": "Dance Gavin Dance",
       "year": 2008,
       "song_length": 270.939,
-      "creator": "Custom Song Creator",
-      "created_date": "10-24-14 17:36",
       "arrangements": [
         {
           "name": "Bass",
@@ -16746,10 +16880,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Hot-Water-on-Wool_v11_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Hot-Water-on-Wool_v11_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Hot-Water-on-Wool_v11_m.psarc"
       }
     },
     {
@@ -16759,8 +16895,6 @@
       "album": "Mothership ",
       "year": 2016,
       "song_length": 289.588,
-      "creator": "audioooo",
-      "created_date": "07-28-25 14:18",
       "arrangements": [
         {
           "name": "Bass",
@@ -16774,10 +16908,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Inspire-The-Liars_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Inspire-The-Liars_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Inspire-The-Liars_v1_m.psarc"
       }
     },
     {
@@ -16787,8 +16923,6 @@
       "album": "Mothership",
       "year": 2016,
       "song_length": 280.252,
-      "creator": "Lil Ramen Noodle",
-      "created_date": "8-8-20 8:12",
       "arrangements": [
         {
           "name": "Bass",
@@ -16819,6 +16953,44 @@
       }
     },
     {
+      "song_key": "CusDGDJesusHMacy",
+      "title": "Jesus H. Macy",
+      "artist": "Dance Gavin Dance",
+      "album": "Acceptance Speech",
+      "year": 2013,
+      "song_length": 208.291,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Jesus-H-Macy_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Jesus-H-Macy_v1_p.psarc"
+      }
+    },
+    {
       "song_key": "HyDanceLemon",
       "title": "Lemon Meringue Tie",
       "artist": "Dance Gavin Dance",
@@ -16829,6 +17001,11 @@
       "created_date": "08-14-25 20:05",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Drop D"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "Drop D"
@@ -16839,20 +17016,17 @@
           "tuning": "Drop D"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Drop D"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Lemon-Meringue-Tie_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Lemon-Meringue-Tie_v1_p.psarc"
       }
     },
@@ -16863,8 +17037,6 @@
       "album": "Dance Gavin Dance",
       "year": 2008,
       "song_length": 192.61,
-      "creator": "Custom Song Creator",
-      "created_date": "10-24-14 17:20",
       "arrangements": [
         {
           "name": "Bass",
@@ -16888,9 +17060,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Me-and-Zoloft-Get-Along-Just-Fine_v11_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Me-and-Zoloft-Get-Along-Just-Fine_v11_p.psarc"
       }
     },
@@ -16901,8 +17075,6 @@
       "album": "Pantheon",
       "year": 2025,
       "song_length": 260.697,
-      "creator": "Gage",
-      "created_date": "12-6-25 18:38",
       "arrangements": [
         {
           "name": "Lead",
@@ -16926,10 +17098,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Midnight-at-McGuffys_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Midnight-at-McGuffys_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Midnight-at-McGuffys_v1_m.psarc"
       }
     },
     {
@@ -16959,10 +17133,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Midnight-Crusade_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Midnight-Crusade_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Midnight-Crusade_v1_m.psarc"
       }
     },
     {
@@ -16992,10 +17168,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Ghost-Of-Billy-Royalton-The_v4_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Midnight-Crusade_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Midnight-Crusade_v1_m.psarc"
       }
     },
     {
@@ -17030,9 +17208,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_NASA_v3_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin_NASA_v3_p.psarc"
       }
     },
@@ -17068,10 +17248,45 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Nothing-Shameful_v1_1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Nothing-Shameful_v1_1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Nothing-Shameful_v1_1_DD_m.psarc"
+      }
+    },
+    {
+      "song_key": "CusDGDOneMansCringe",
+      "title": "One Man's Cringe",
+      "artist": "Dance Gavin Dance",
+      "album": "Jackpot Juicer",
+      "year": 2022,
+      "song_length": 226.452,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Drop D"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Drop D"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_One-Man's-Cringe_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_One-Man's-Cringe_v1_DD_m.psarc"
       }
     },
     {
@@ -17101,10 +17316,45 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_One-Man's-Cringe_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Nothing-Shameful_v1_1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Nothing-Shameful_v1_1_DD_m.psarc"
+      }
+    },
+    {
+      "song_key": "CusDGDOneMansCringe",
+      "title": "One Man's Cringe",
+      "artist": "Dance Gavin Dance",
+      "album": "Jackpot Juicer",
+      "year": 2022,
+      "song_length": 226.452,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Drop D"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "Drop D"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_One-Man's-Cringe_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_One-Man's-Cringe_v1_DD_m.psarc"
       }
     },
     {
@@ -17134,10 +17384,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Pop-Off_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Pop-Off_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Pop-Off_v1_DD_m.psarc"
       }
     },
     {
@@ -17157,9 +17409,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Pop-Off_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Pop-Off_v1_p.psarc"
       }
     },
@@ -17170,8 +17424,6 @@
       "album": "Downtown Battle Mountain II",
       "year": 2011,
       "song_length": 150.806,
-      "creator": "Custom Song Creator",
-      "created_date": "7-18-14 16:15",
       "arrangements": [
         {
           "name": "Bass",
@@ -17190,10 +17442,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Pounce-Bounce_v2_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Pounce-Bounce_v2_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Pounce-Bounce_v2_m.psarc"
       }
     },
     {
@@ -17212,11 +17466,6 @@
           "tuning": "Drop D"
         },
         {
-          "name": "Vocals",
-          "type": "Vocals",
-          "tuning": "Unknown"
-        },
-        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "E Standard"
@@ -17225,12 +17474,19 @@
           "name": "Rhythm",
           "type": "Rhythm",
           "tuning": "E Standard"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Prisoner_v4_20_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Prisoner_v4_20_p.psarc"
       }
     },
@@ -17256,9 +17512,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Prisoner_v1_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Prisoner_v1_DD_p.psarc"
       }
     },
@@ -17284,9 +17542,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Privilously-Poncheezied_v2_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin_Privilously-Poncheezied_v2_p.psarc"
       }
     },
@@ -17317,10 +17577,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Shelf-Life-feat_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Shelf-Life-feat_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Shelf-Life-feat_m.psarc"
       }
     },
     {
@@ -17340,10 +17602,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Son-of-Robot_Bass_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Son-of-Robot_Bass_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Son-of-Robot_Bass_v1_m.psarc"
       }
     },
     {
@@ -17373,10 +17637,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Speed-Demon_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Speed-Demon_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Speed-Demon_v1_m.psarc"
       }
     },
     {
@@ -17386,8 +17652,6 @@
       "album": "Downtown Battle Mountain II",
       "year": 2011,
       "song_length": 247.164,
-      "creator": "Custom Song Creator",
-      "created_date": "8-1-14 22:57",
       "arrangements": [
         {
           "name": "Bass",
@@ -17411,9 +17675,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Spooks_v25_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Spooks_v25_p.psarc"
       }
     },
@@ -17424,8 +17690,6 @@
       "album": "Acceptance Speech",
       "year": 2013,
       "song_length": 218.092,
-      "creator": "Custom Song Creator",
-      "created_date": "7-11-14 21:43",
       "arrangements": [
         {
           "name": "Bass",
@@ -17433,13 +17697,13 @@
           "tuning": "Drop D"
         },
         {
-          "name": "Rhythm",
-          "type": "Rhythm",
+          "name": "Lead",
+          "type": "Lead",
           "tuning": "Drop D"
         },
         {
-          "name": "Lead",
-          "type": "Lead",
+          "name": "Rhythm",
+          "type": "Rhythm",
           "tuning": "Drop D"
         },
         {
@@ -17449,9 +17713,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Strawberry-Swisher-part-III_v2_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Strawberry-Swisher-part-III_v2_p.psarc"
       }
     },
@@ -17462,8 +17728,6 @@
       "album": "Happiness",
       "year": 2009,
       "song_length": 196.759,
-      "creator": "Gage",
-      "created_date": "01-26-25 04:39",
       "arrangements": [
         {
           "name": "Lead",
@@ -17487,10 +17751,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Strawberry-Swisher-Pt-2_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Strawberry-Swisher-Pt-2_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Strawberry-Swisher-Pt-2_v1_m.psarc"
       }
     },
     {
@@ -17515,9 +17781,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Strawberry's-Wake_v1_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Strawberry's-Wake_v1_DD_p.psarc"
       }
     },
@@ -17528,8 +17796,6 @@
       "album": "Afterburner",
       "year": 2020,
       "song_length": 234.868,
-      "creator": "Dell & Ramen",
-      "created_date": "04-13-24 03:07",
       "arrangements": [
         {
           "name": "Lead",
@@ -17581,10 +17847,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Stroke-God-Millionaire_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Stroke-God-Millionaire_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Stroke-God-Millionaire_v1_DD_m.psarc"
       }
     },
     {
@@ -17594,8 +17862,6 @@
       "album": "Instant Gratification",
       "year": 2015,
       "song_length": 190.859,
-      "creator": "Custom Song Creator",
-      "created_date": "2-5-20 0:09",
       "arrangements": [
         {
           "name": "Bass",
@@ -17614,9 +17880,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Stroke-God-Millionaire_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Stroke-God-Millionaire_v1_p.psarc"
       }
     },
@@ -17637,9 +17905,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Summertime-Gladness_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Summertime-Gladness_v1_p.psarc"
       }
     },
@@ -17675,9 +17945,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Swan-Soup_v21_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Swan-Soup_v21_p.psarc"
       }
     },
@@ -17708,10 +17980,45 @@
         }
       ],
       "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Synergy-feat-Rob-Damiani_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Synergy-feat-Rob-Damiani_v1_DD_m.psarc"
+      }
+    },
+    {
+      "song_key": "MRFKDGDGhostOBillyRoyalton",
+      "title": "The Ghost Of Billy Royalton",
+      "artist": "Dance Gavin Dance",
+      "album": "The Ghost Of Billy Royalton",
+      "year": 2023,
+      "song_length": 276.382,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "Custom (222222)"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Synergy-feat-Rob-Damiani_v1_DD_p.psarc"
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Ghost-Of-Billy-Royalton-The_v4_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Ghost-Of-Billy-Royalton-The_v4_p.psarc"
       }
     },
     {
@@ -17721,8 +18028,6 @@
       "album": "Downtown Battle Mountain II",
       "year": 2011,
       "song_length": 198.239,
-      "creator": "Custom Song Creator",
-      "created_date": "8-24-14 1:27",
       "arrangements": [
         {
           "name": "Bass",
@@ -17746,10 +18051,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Thug-City_v2_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Thug-City_v2_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin_Thug-City_v2_m.psarc"
       }
     },
     {
@@ -17779,10 +18086,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Two-Secret-Weapons_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Two-Secret-Weapons_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Two-Secret-Weapons_v1_DD_m.psarc"
       }
     },
     {
@@ -17812,10 +18121,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Untitled-2-Cream-Of-The-Crop_v1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_Untitled-2-Cream-Of-The-Crop_v1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_Untitled-2-Cream-Of-The-Crop_v1_DD_m.psarc"
       }
     },
     {
@@ -17845,22 +18156,29 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_War-Machine_v1_2_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_War-Machine_v1_2_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_War-Machine_v1_2_DD_m.psarc"
       }
     },
     {
       "song_key": "LilDGDWeOwnTheNight",
       "title": "We Own The Night",
+      "song_key": "LilDGDWeOwnTheNight",
+      "title": "We Own The Night",
       "artist": "Dance Gavin Dance",
       "album": "Instant Gratification",
       "year": 2015,
-      "song_length": 210.818,
-      "creator": "Lil Ramen Noodle",
-      "created_date": "4-14-20 19:03",
+      "song_length": 210.727,
       "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (777777)"
+        },
         {
           "name": "Lead",
           "type": "Lead",
@@ -17875,29 +18193,26 @@
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
-        },
-        {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Custom (777777)"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Dance Gavin Dance/Dance-Gavin-Dance_We-Own-The-Night_v1_2_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_We-Own-The-Night_v1_2_p.psarc"
       }
     },
     {
       "song_key": "CusDGDWeOwnTheNight",
       "title": "We Own the Night",
+      "song_key": "CusDGDWeOwnTheNight",
+      "title": "We Own the Night",
       "artist": "Dance Gavin Dance",
       "album": "Instant Gratification",
       "year": 2015,
       "song_length": 208.663,
-      "creator": "Custom Song Creator",
-      "created_date": "3-25-23 2:05",
       "arrangements": [
         {
           "name": "Lead",
@@ -17914,6 +18229,7 @@
         "PC"
       ],
       "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_We-Own-the-Night_v1_DD_p.psarc"
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Dance Gavin Dance/Dance-Gavin-Dance_We-Own-the-Night_v1_DD_p.psarc"
       }
     },
@@ -22378,8 +22694,6 @@
       "album": "The Architect",
       "year": 2021,
       "song_length": 237.178,
-      "creator": "poa",
-      "created_date": "03-22-22 22:41",
       "arrangements": [
         {
           "name": "Lead",
@@ -22398,10 +22712,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Eidola/Eidola_Mutual-Fear_v1_4_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Eidola/Eidola_Mutual-Fear_v1_4_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Eidola/Eidola_Mutual-Fear_v1_4_m.psarc"
       }
     },
     {
@@ -22411,8 +22727,6 @@
       "album": "No Weapon Formed Shall Prosper",
       "year": 2024,
       "song_length": 243.957,
-      "creator": "MRFookyBear",
-      "created_date": "2-19-24 18:25",
       "arrangements": [
         {
           "name": "Lead",
@@ -22431,9 +22745,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Eidola/Eidola_No-Weapon-Formed-Shall-Prosper_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Eidola/Eidola_No-Weapon-Formed-Shall-Prosper_v1_p.psarc"
       }
     },
@@ -22444,8 +22760,6 @@
       "album": "The Architect",
       "year": 2021,
       "song_length": 228.11,
-      "creator": "MRFookyBear",
-      "created_date": "2-18-24 15:30",
       "arrangements": [
         {
           "name": "Bass",
@@ -22469,10 +22783,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Eidola/Eidola_Unequivocal-Nature_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Eidola/Eidola_Unequivocal-Nature_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Eidola/Eidola_Unequivocal-Nature_v1_m.psarc"
       }
     },
     {
@@ -23678,6 +23994,11 @@
       "created_date": "03-18-24 11:52",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "E Standard"
@@ -23688,20 +24009,17 @@
           "tuning": "E Standard"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "E Standard"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_20-Dollar-Nose-Bleed_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_20-Dollar-Nose-Bleed_v1_p.psarc"
       }
     },
@@ -23737,10 +24055,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_27_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_27_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_27_v1_m.psarc"
       }
     },
     {
@@ -23754,6 +24074,11 @@
       "created_date": "10-4-21 18:17",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Drop D"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "Drop D"
@@ -23764,20 +24089,17 @@
           "tuning": "Drop D"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Drop D"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Little-Less-Sixteen-Candles-A-Little-More-Touch-Me-A_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Little-Less-Sixteen-Candles-A-Little-More-Touch-Me-A_v1_p.psarc"
       }
     },
@@ -23803,10 +24125,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_American-Made_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_American-Made_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_American-Made_v1_m.psarc"
       }
     },
     {
@@ -23841,10 +24165,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall-Out-Boy_Dead-On-Arrival_v1_0_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall-Out-Boy_Dead-On-Arrival_v1_0_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Dead-On-Arrival_v1_0_m.psarc"
       }
     },
     {
@@ -23879,10 +24205,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall-Out-Boy_Thriller_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall-Out-Boy_Thriller_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Thriller_v1_m.psarc"
       }
     },
     {
@@ -23917,10 +24245,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Disloyal-Order-Of-Water-Buffaloes_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Disloyal-Order-Of-Water-Buffaloes_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Disloyal-Order-Of-Water-Buffaloes_v1_m.psarc"
       }
     },
     {
@@ -23955,10 +24285,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Dont-You-Know-Who-I-Think-I-Am_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Dont-You-Know-Who-I-Think-I-Am_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Dont-You-Know-Who-I-Think-I-Am_v1_m.psarc"
       }
     },
     {
@@ -23972,6 +24304,11 @@
       "created_date": "6-14-20 13:08",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "E Standard"
@@ -23982,20 +24319,17 @@
           "tuning": "E Standard"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "E Standard"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Don't-You-Know-Who-I-Think-I-Am_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Don't-You-Know-Who-I-Think-I-Am_v1_p.psarc"
       }
     },
@@ -24185,6 +24519,11 @@
       "created_date": "11-21-24 12:47",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Drop D"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "Drop D"
@@ -24195,20 +24534,17 @@
           "tuning": "Drop D"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Drop D"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_GINASFS_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_GINASFS_v1_p.psarc"
       }
     },
@@ -24244,10 +24580,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Hold-Me-Like-a-Grudge_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Hold-Me-Like-a-Grudge_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Hold-Me-Like-a-Grudge_v1_m.psarc"
       }
     },
     {
@@ -24261,6 +24599,11 @@
       "created_date": "1-19-18 15:51",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Drop D"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "Drop D"
@@ -24271,20 +24614,17 @@
           "tuning": "Drop D"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "Drop D"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Hum-Hallelujah_v1_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Hum-Hallelujah_v1_DD_p.psarc"
       }
     },
@@ -24315,10 +24655,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Im-Like-A-Lawyer-With-the-Way-Im-Always-Trying-to-Get-You-Off_v1_0_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Im-Like-A-Lawyer-With-the-Way-Im-Always-Trying-to-Get-You-Off_v1_0_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Im-Like-A-Lawyer-With-the-Way-Im-Always-Trying-to-Get-You-Off_v1_0_DD_m.psarc"
       }
     },
     {
@@ -24391,10 +24733,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_So-Much-For-Stardust_v1_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_So-Much-For-Stardust_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_So-Much-For-Stardust_v1_m.psarc"
       }
     },
     {
@@ -24408,6 +24752,11 @@
       "created_date": "08-4-24 15:02",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "E Standard"
@@ -24418,20 +24767,17 @@
           "tuning": "E Standard"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "E Standard"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Sophomore-Slump-or-Comeback-of-the-Year_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Sophomore-Slump-or-Comeback-of-the-Year_v1_p.psarc"
       }
     },
@@ -24446,6 +24792,11 @@
       "created_date": "06-19-23 00:48",
       "arrangements": [
         {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "E Standard"
+        },
+        {
           "name": "Lead",
           "type": "Lead",
           "tuning": "E Standard"
@@ -24456,20 +24807,17 @@
           "tuning": "E Standard"
         },
         {
-          "name": "Bass",
-          "type": "Bass",
-          "tuning": "E Standard"
-        },
-        {
           "name": "Vocals",
           "type": "Vocals",
           "tuning": "Unknown"
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_This-Aint-a-Scene-Its-an-Arms-Race_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_This-Aint-a-Scene-Its-an-Arms-Race_v1_p.psarc"
       }
     },
@@ -24505,10 +24853,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Young-Volcanoes_v1-1_DD_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Fall Out Boy/Fall-Out-Boy_Young-Volcanoes_v1-1_DD_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Fall Out Boy/Fall-Out-Boy_Young-Volcanoes_v1-1_DD_m.psarc"
       }
     },
     {
@@ -27141,12 +27491,10 @@
         }
       ],
       "platforms": [
-        "PC",
-        "Mac"
+        "PC"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Franz Ferdinand/Franz-Ferdinand_This-Fffire_v1_1_p.psarc",
-        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Garrett - WILL SORT/Franz-Ferdinand_This-Fffire_v1_1_m.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Franz Ferdinand/Franz-Ferdinand_This-Fffire_v1_1_p.psarc"
       }
     },
     {
@@ -33234,6 +33582,138 @@
       ],
       "files": {
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Indigo Girls/indipowe_p.psarc"
+      }
+    },
+    {
+      "song_key": "HystericalWatchers",
+      "title": "Hysterical Watchers",
+      "artist": "Infected Rain",
+      "album": "Embrace Eternity",
+      "year": 2014,
+      "song_length": 275.541,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "C# Drop B"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "C# Drop B"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Infected Rain/Infected-Rain_Hysterical-Watchers_v1_DD_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Infected Rain/Infected-Rain_Hysterical-Watchers_v1_DD_p.psarc"
+      }
+    },
+    {
+      "song_key": "CusIRJudgementalTrap",
+      "title": "Judgemental Trap",
+      "artist": "Infected Rain",
+      "album": "Asylum",
+      "year": 2011,
+      "song_length": 268.6,
+      "arrangements": [
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "Custom (799900)"
+        },
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "C# Drop B"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "C# Drop B"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Infected Rain/Infected-Rain_Judgemental-Trap_v1_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Infected Rain/Infected-Rain_Judgemental-Trap_v1_p.psarc"
+      }
+    },
+    {
+      "song_key": "CusIROrphanSoul",
+      "title": "Orphan Soul",
+      "artist": "Infected Rain",
+      "album": "86",
+      "year": 2017,
+      "song_length": 291.877,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "B Drop A"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "B Drop A"
+        },
+        {
+          "name": "Bass",
+          "type": "Bass",
+          "tuning": "B Drop A"
+        },
+        {
+          "name": "Vocals",
+          "type": "Vocals",
+          "tuning": "Unknown"
+        }
+      ],
+      "platforms": [
+        "PC",
+        "Mac"
+      ],
+      "files": {
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Infected Rain/Infected-Rain_Orphan-Soul_v1_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Infected Rain/Infected-Rain_Orphan-Soul_v1_m.psarc"
+      }
+    },
+    {
+      "song_key": "StopWaiting",
+      "title": "Stop Waiting",
+      "artist": "Infected Rain",
+      "album": "Embrace Eternity",
+      "year": 2014,
+      "song_length": 301.951,
+      "arrangements": [
+        {
+          "name": "Lead",
+          "type": "Lead",
+          "tuning": "C# Drop B"
+        },
+        {
+          "name": "Rhythm",
+          "type": "Rhythm",
+          "tuning": "C# Drop B"
+        }
+      ],
+      "platforms": [
+        "Mac",
+        "PC"
+      ],
+      "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Infected Rain/Infected-Rain_Stop-Waiting_v1_DD_m.psarc",
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/Infected Rain/Infected-Rain_Stop-Waiting_v1_DD_p.psarc"
       }
     },
     {
@@ -53535,10 +54015,12 @@
         }
       ],
       "platforms": [
-        "PC"
+        "PC",
+        "Mac"
       ],
       "files": {
-        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Otis Redding/Otis-Redding_Thats-How-Strong-My-Love-Is_v2_p.psarc"
+        "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Otis Redding/Otis-Redding_Thats-How-Strong-My-Love-Is_v2_p.psarc",
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Otis Redding/Otis-Redding_Thats-How-Strong-My-Love-Is_v2_m.psarc"
       }
     },
     {
@@ -53558,9 +54040,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Otis Redding/Otis-Redding_These-Arms-Of-Mine_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Otis Redding/Otis-Redding_These-Arms-Of-Mine_v1_p.psarc"
       }
     },
@@ -53756,9 +54240,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Palaye Royale/Palaye-Royale_Just-My-Type_v1_0_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Palaye Royale/Palaye-Royale_Just-My-Type_v1_0_p.psarc"
       }
     },
@@ -53814,9 +54300,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Palaye Royale/Palaye-Royale_Lonely_v1_1_DD_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Palaye Royale/Palaye-Royale_Lonely_v1_1_DD_p.psarc"
       }
     },
@@ -53852,9 +54340,11 @@
         }
       ],
       "platforms": [
+        "Mac",
         "PC"
       ],
       "files": {
+        "Mac": "/Users/owenhathaway/Dropbox/RockSmithDLC/Palaye Royale/Palaye-Royale_Mr-Doctor-Man_v1_m.psarc",
         "PC": "/Users/owenhathaway/Dropbox/RockSmithDLC/All Songs/Palaye Royale/Palaye-Royale_Mr-Doctor-Man_v1_p.psarc"
       }
     },
